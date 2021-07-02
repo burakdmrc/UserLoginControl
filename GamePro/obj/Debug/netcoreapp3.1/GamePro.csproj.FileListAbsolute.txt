@@ -1,0 +1,11 @@
+C:\Users\hmh\source\repos\Oop3\GamePro\bin\Debug\netcoreapp3.1\GamePro.exe
+C:\Users\hmh\source\repos\Oop3\GamePro\bin\Debug\netcoreapp3.1\GamePro.deps.json
+C:\Users\hmh\source\repos\Oop3\GamePro\bin\Debug\netcoreapp3.1\GamePro.runtimeconfig.json
+C:\Users\hmh\source\repos\Oop3\GamePro\bin\Debug\netcoreapp3.1\GamePro.runtimeconfig.dev.json
+C:\Users\hmh\source\repos\Oop3\GamePro\bin\Debug\netcoreapp3.1\GamePro.dll
+C:\Users\hmh\source\repos\Oop3\GamePro\bin\Debug\netcoreapp3.1\GamePro.pdb
+C:\Users\hmh\source\repos\Oop3\GamePro\obj\Debug\netcoreapp3.1\GamePro.csprojAssemblyReference.cache
+C:\Users\hmh\source\repos\Oop3\GamePro\obj\Debug\netcoreapp3.1\GamePro.AssemblyInfoInputs.cache
+C:\Users\hmh\source\repos\Oop3\GamePro\obj\Debug\netcoreapp3.1\GamePro.AssemblyInfo.cs
+C:\Users\hmh\source\repos\Oop3\GamePro\obj\Debug\netcoreapp3.1\GamePro.dll
+C:\Users\hmh\source\repos\Oop3\GamePro\obj\Debug\netcoreapp3.1\GamePro.pdb
